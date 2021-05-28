@@ -4,7 +4,7 @@
 
 Na nossa formação do [Vai na Web](https://www.vainaweb.com.br/) temos desafios logo após o término das aulas para colocarmos a mão na massa, ou melhor, no código.
 
-## Conteúdo da Aula04 - Funções
+## Conteúdo da Aula05 - Array
 ### Tema da aula: Conhecendo o tipo de dado complexo: Array
 
 Discussão: introdução à lógica de programação
