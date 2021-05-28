@@ -5,14 +5,14 @@
 Na nossa formação do [Vai na Web](https://www.vainaweb.com.br/) temos desafios logo após o término das aulas para colocarmos a mão na massa, ou melhor, no código.
 
 ## Conteúdo da Aula04 - Funções
-### Tema da aula: O que é uma função (argumentos, parâmetros) e reuso de código
+### Tema da aula: Conhecendo o tipo de dado complexo: Array
 
 Discussão: introdução à lógica de programação
 
 ### Objetivos: 
 
-- Entender como declarar funções
-- Explorar possíveis usos das funções
+- Entender e explorar Array
+- Conhecer métodos de Array
 
 ## Desafios Javascript
 - Desafio 01
@@ -34,20 +34,23 @@ Discussão: introdução à lógica de programação
   - [Repositório](https://github.com/devrodrigosousa/desafio6-js)
   - [Pages](https://devrodrigosousa.github.io/desafio6-js/)
 
-### Desafio 04
+### Desafio 05
 ---
-Segue abaixo as tarefas do **quarto** desafio proposto pelo plano programático de estudos do [Vai na Web](https://www.vainaweb.com.br/).
+Segue abaixo as tarefas do **quinto** desafio proposto pelo plano programático de estudos do [Vai na Web](https://www.vainaweb.com.br/).
 
 ```js
-//1 - crie uma função que exiba uma mensagem no console
+// 1. Crie um array que receba 5 itens e exiba no console.
 
-//2 - crie uma função que receba o seu nome como (parâmetro) e exiba no console
+// 2. Utilize um método para adicionar um nome ao inicio do array.
 
-//3 - crie uma função que receba seu nome, idade, e estilo musical preferido (parâmetros) e exiba no console
+// 3. Utilize um método para remover o último nome do array.
 
-//4 - crie uma função que receba o seu filme favorito, musica favorita (parâmetros) e exiba no console
+// 4. Utilize um método para adicionar dois nomes ao fim do array.
 
-//5 - crie uma função que retorne o triplo do número recebido no parâmetro da função
+// 5. Utilize um método para remover o primeiro nome do array.
+
+// 6. Utilize um método para organizar em ordem crescente o seguinte array:
+// const numbers = [7,5,6,3,8,9,2,1,4]
 
 ```
 ## Quem sou eu?
